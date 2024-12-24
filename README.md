@@ -1,4 +1,3 @@
-¡Entendido! Basándome en tus explicaciones, aquí tienes un README actualizado y completo que describe tus proyectos de manera clara y profesional:
 
 ---
 
