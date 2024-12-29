@@ -1,4 +1,3 @@
-
 ---
 
 # Proyectos de blasfemico
@@ -65,6 +64,27 @@ Integra tecnologías de visión por computadora (OpenCV), OCR y manejo de hardwa
 **Estado:** Terminado.
 
 **Repositorio:** [MVINACAP](https://github.com/blasfemico/MVINACAP)
+
+---
+
+## 4. Sistema de Seguridad con Llamadas SIP
+
+**Descripción:**
+Este sistema es una solución de seguridad que detecta movimientos y analiza comportamientos en tiempo real utilizando una cámara conectada. Integra notificaciones avanzadas mediante llamadas SIP que utilizan un mensaje de voz generado automáticamente. También ofrece la capacidad de grabar videos durante actividades sospechosas para mayor evidencia.
+
+**Características principales:**
+- **Detección de Movimiento:** Identifica cambios en la cámara y registra contornos de áreas en movimiento.
+- **Análisis de Comportamiento:** Determina si el comportamiento detectado es sospechoso basándose en posturas y patrones de actividad.
+- **Notificaciones por Llamadas SIP:** Realiza llamadas al propietario con un mensaje de voz alertando sobre actividades sospechosas.
+- **Grabación Automática:** Comienza a grabar video en caso de detección de comportamientos inusuales.
+- **Configuraciones Avanzadas:** Permite ajustar sensibilidad, tiempo de presencia y parámetros de notificaciones.
+
+**Complejidad:**
+El sistema combina procesamiento de video en tiempo real con herramientas de inteligencia artificial (MediaPipe y OpenCV) y tecnología de comunicaciones SIP (Linphone). Esto lo hace adecuado para entornos residenciales y empresariales.
+
+**Estado:** En desarrollo avanzado.
+
+**Repositorio:** [seguridad_sip](https://github.com/blasfemico/SecureBrain)
 
 ---
 
